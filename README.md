@@ -30,3 +30,9 @@ Output:
 ## How to run
 ```bash
 python3 transaction_checker.py
+
+## Screenshot
+Example output from the support workflow.
+
+![Example Output](example-output.png)
+
